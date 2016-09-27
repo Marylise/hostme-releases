@@ -1,0 +1,1 @@
+table,tables,restaurant,cafe,bar,wait,waitlist,reservation,book,manager,new york,los angeles,miami
