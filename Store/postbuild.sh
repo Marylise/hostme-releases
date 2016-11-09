@@ -1,3 +1,3 @@
-echo ">> Post-build script. Copy files from [$1] to [$2]"
+echo ">> Post-build script. Copy files from [$2] to [$3]"
 
-cp $1 $2
+cp $1 $2 $3
