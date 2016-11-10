@@ -1,0 +1,3 @@
+1) New reservation widget. We are introducing a brand new reservation widget that you can place on your website. It comes with a new style and it collects more information about your guests
+2) Online reservation page for restaurant. Every restaurant in our system has a page with information about the restaurant and an online reservation form
+3) Reservation and Waitlist Dashboard Improvements. This release includes improvements and additions to the reservations and waitlist user interfaces
