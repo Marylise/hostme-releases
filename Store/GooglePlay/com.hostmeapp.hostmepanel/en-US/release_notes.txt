@@ -1,5 +1,4 @@
-1)We made a number of small UI improvements to make the mobile user experience in the floor plan editor even better
-2)Guests can invite other participants to the reservation and restaurants collect more data
-3)Reservation confirmation email contains an "edit reservation" link that allows guests to change or cancel the reservation.
-4)Allow the assignment of big groups to multiple tables when adding a walk-in party
-5)Server's picture and name on the side panel
+1)Phone number is optional in reservation wizard
+2)Online reservation page and widget support for 8 languages
+3)Reservation dashboard stats are extended with total and to be seated cover numbers
+4)Ability to create a demo floor plan
