@@ -1,1 +1,1 @@
-gem update fastlane
+gem update fastlane -i ~/.gem-cache
