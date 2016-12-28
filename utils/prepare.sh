@@ -1,1 +1,1 @@
-gem update fastlane -i
+gem update fastlane
