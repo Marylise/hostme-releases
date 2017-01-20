@@ -1,1 +1,3 @@
-TBD - by Pasha
+- Support for iOS 10
+- Support for loyalty program with QR code
+- Improvements in reserevation management
