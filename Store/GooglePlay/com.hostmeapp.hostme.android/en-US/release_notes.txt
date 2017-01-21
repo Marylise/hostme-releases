@@ -1,0 +1,4 @@
+1)Phone number is optional in reservation wizard
+2)Online reservation page and widget support for 8 languages
+3)Reservation dashboard stats are extended with total and to be seated cover numbers
+4)Ability to create a demo floor plan
